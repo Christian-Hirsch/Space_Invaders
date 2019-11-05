@@ -10,12 +10,14 @@ Webseite zum Kurs spAce Invaders
 4. [Monte Carlo](./notebooks/mc.ipynb)
 5. [Cross-Entropy Method](./notebooks/cem.ipynb)
 6. [Q-Table Learning](./notebooks/tabular.ipynb)
-7. [TD-Lambda](./notebooks/tdlambda.ipynb)
-8. [PyTorch](./notebooks/pytorch.ipynb)
-9. [CNN](./notebooks/cnn.ipynb)
-10. [Deep Q Learning](./notebooks/dqn.ipynb)
-11. [REINFORCE](./notebooks/reinforce.ipynb)
-12. [Actor-Critic](./notebooks/actCrit.ipynb)
+7. [UCB](./notebooks/ucb.ipynb)
+8. [Thompson Sampling](./notebooks/thompson.ipynb)
+9. [TD-Lambda](./notebooks/tdlambda.ipynb)
+10. [PyTorch](./notebooks/pytorch.ipynb)
+11. [CNN](./notebooks/cnn.ipynb)
+12. [Deep Q Learning](./notebooks/dqn.ipynb)
+13. [REINFORCE](./notebooks/reinforce.ipynb)
+14. [Actor-Critic](./notebooks/actCrit.ipynb)
 
 ## References
 
