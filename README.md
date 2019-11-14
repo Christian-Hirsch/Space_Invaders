@@ -16,8 +16,9 @@ Webseite zum Kurs spAce Invaders
 10. [PyTorch](./notebooks/pytorch.ipynb)
 11. [CNN](./notebooks/cnn.ipynb)
 12. [Deep Q Learning](./notebooks/dqn.ipynb)
-13. [REINFORCE](./notebooks/reinforce.ipynb)
-14. [Actor-Critic](./notebooks/actCrit.ipynb)
+13. [REINFORCE](./notebooks/pol_grad.ipynb)
+14. [REINFORCE for large state space](./notebooks/reinforce.ipynb)
+15. [Actor-Critic](./notebooks/actCrit.ipynb)
 
 ## References
 
